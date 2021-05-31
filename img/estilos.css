@@ -1,0 +1,16 @@
+.image-fondo {
+    background-image: url();
+    background-size: cover;
+    background-color: white;
+
+}
+
+.cabecera{
+  
+  height: 685px;
+  width: 1200px;
+  line-height: 10px;
+  text-align: center;
+  vertical-align: middle;
+  text-shadow: #111 0px 0px 10px;
+}
